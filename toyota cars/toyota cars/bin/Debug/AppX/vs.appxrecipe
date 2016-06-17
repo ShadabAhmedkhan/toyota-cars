@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAB6-139</Machine>
+    <WindowsUser>asp</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>349f5f6b-b91b-4450-869f-87c38e538a88</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\asp\Desktop\RSS\toyota cars\toyota cars\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>296BBF67560A76DFA91EC4B57478400AE515B26D08A25D3215B06A6899EA4AF1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>349f5f6b-b91b-4450-869f-87c38e538a88_1.0.0.0_neutral__79ejfqzfbtfcm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>349f5f6b-b91b-4450-869f-87c38e538a88_79ejfqzfbtfcm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>349f5f6b-b91b-4450-869f-87c38e538a88</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=asp</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\asp\Desktop\RSS\toyota cars\toyota cars\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-17T10:51:48.210</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\RSS\toyota cars\toyota cars\bin\Debug\toyota cars.exe">
+      <PackagePath>toyota cars.exe</PackagePath>
+      <Modified>2016-06-17T10:58:03.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\RSS\toyota cars\toyota cars\Assets\index_slide_m_09.jpg">
+      <PackagePath>Assets\index_slide_m_09.jpg</PackagePath>
+      <Modified>2016-06-17T10:49:59.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\RSS\toyota cars\toyota cars\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\RSS\toyota cars\toyota cars\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-17T10:41:19.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\RSS\toyota cars\toyota cars\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-17T10:41:19.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\RSS\toyota cars\toyota cars\Assets\SmallLogo.targetsize-32.png">
+      <PackagePath>Assets\SmallLogo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-17T10:41:19.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\RSS\toyota cars\toyota cars\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-17T10:41:19.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\RSS\toyota cars\toyota cars\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-17T10:41:19.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\RSS\toyota cars\toyota cars\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-17T10:41:19.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\RSS\toyota cars\toyota cars\Assets\Toyota_cars_carmudi.png">
+      <PackagePath>Assets\Toyota_cars_carmudi.png</PackagePath>
+      <Modified>2016-06-17T10:41:52.835</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\RSS\toyota cars\toyota cars\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-06-17T10:43:00.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\RSS\toyota cars\toyota cars\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-06-17T10:58:02.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\RSS\toyota cars\toyota cars\bin\Debug\toyota cars.xr.xml">
+      <PackagePath>toyota cars.xr.xml</PackagePath>
+      <Modified>2016-06-17T10:57:32.414</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\RSS\toyota cars\toyota cars\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-06-17T10:51:48.103</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
